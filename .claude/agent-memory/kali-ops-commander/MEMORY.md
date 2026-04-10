@@ -1,0 +1,1 @@
+- [ManaMetaMaori Deployed](project_manametamaori-deployed.md) — Live on Beast:3080 since 2026-04-07, needs DNS + JWT rotation
